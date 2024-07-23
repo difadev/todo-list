@@ -21,6 +21,7 @@ const config = {
     extend: {
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],
+        popregular: ['var(--font-font-popregular)']
       },
       colors: {
         border: "hsl(var(--border))",
